@@ -27,9 +27,10 @@ Technologies and Languages </h2>
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 <div align="center">
 <h2>Professional projects</h2>
-[<img src="https://media.licdn.com/dms/image/D4E2DAQGExSpW-hUtSQ/profile-treasury-image-shrink_1920_1920/0/1666346499540?e=1677405600&v=beta&t=ua-5-XKr8zjVHW_pNpH0ocNWqSQ6ZHfk1t0nKUOhwsg" style="width:128px;height:128px;" />](https://store.steampowered.com/app/1080410/Bake_n_Switch/)
+[<img src="https://media.licdn.com/dms/image/D4E2DAQGExSpW-hUtSQ/profile-treasury-image-shrink_1920_1920/0/1666346499540?e=1677405600&v=beta&t=ua-5-XKr8zjVHW_pNpH0ocNWqSQ6ZHfk1t0nKUOhwsg" style="width:500px;height:500px;" />](https://store.steampowered.com/app/1080410/Bake_n_Switch/)
  
 
-[<img src="https://media.licdn.com/dms/image/C4E2DAQHd-cjDU63noQ/profile-treasury-image-shrink_800_800/0/1668956168327?e=1677405600&v=beta&t=87OcD98ZWP1j3EmRDrpp0ductaebcF7BzBe-OYdnwSg" style="width:128px;height:128px;" />](https://www.indiedb.com/games/the-lays-of-althas-sundered-order)
+[<img src="https://media.licdn.com/dms/image/C4E2DAQHd-cjDU63noQ/profile-treasury-image-shrink_800_800/0/1668956168327?e=1677405600&v=beta&t=87OcD98ZWP1j3EmRDrpp0ductaebcF7BzBe-OYdnwSg" style="width:500px;height:500px;" />](https://www.indiedb.com/games/the-lays-of-althas-sundered-order)
+ 
 </div>
 
