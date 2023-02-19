@@ -27,8 +27,5 @@ Technologies and Languages </h2>
 <div align="center">
  ![avatar](https://images.weserv.nl/?url=https://media.licdn.com/dms/image/D4E2DAQGExSpW-hUtSQ/profile-treasury-image-shrink_1920_1920/0/1666346499540?e=1677405600&v=beta&t=ua-5-XKr8zjVHW_pNpH0ocNWqSQ6ZHfk1t0nKUOhwsg)
  
- ![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/65769327?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d
-)
- 
 <a href="url"><img src="https://media.licdn.com/dms/image/D4E2DAQGExSpW-hUtSQ/profile-treasury-image-shrink_1920_1920/0/1666346499540?e=1677405600&v=beta&t=ua-5-XKr8zjVHW_pNpH0ocNWqSQ6ZHfk1t0nKUOhwsg" height="auto" width="200" style="border-radius:50%"></a>
 </div>
