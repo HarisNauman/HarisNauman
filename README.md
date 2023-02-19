@@ -25,7 +25,7 @@ Technologies and Languages </h2>
 </div>
 
 <div align="center">
- 
+ <h2>Professional projects</h2>
 <img src="https://i.ibb.co/59HNtVk/aaa-modified.png" alt="aaa-modified" border="0" />
  
  </div>
