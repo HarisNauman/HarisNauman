@@ -26,7 +26,7 @@ Technologies and Languages </h2>
 
 <div align="center">
  <h2>Professional projects</h2>
-<a href="https://store.steampowered.com/app/1080410/Bake_n_Switch/"><img src="https://i.ibb.co/59HNtVk/aaa-modified.png" border="0" /></a>
-<a href="https://store.steampowered.com/app/1080410/Bake_n_Switch/"><img src="https://i.ibb.co/19PLg8h/1668956168327-modified.png" border="0" /></a>
+<a href="https://store.steampowered.com/app/1080410/Bake_n_Switch/"><img src="https://i.ibb.co/59HNtVk/aaa-modified.png" border="0" style="width:128px;height:128px;/></a>
+<a href="https://store.steampowered.com/app/1080410/Bake_n_Switch/"><img src="https://i.ibb.co/19PLg8h/1668956168327-modified.png" border="0" style="width:128px;height:128px;/></a>
 
  </div>
