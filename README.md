@@ -27,6 +27,6 @@ Technologies and Languages </h2>
 <div align="center">
  <h2>Professional projects</h2>
 <a href="https://store.steampowered.com/app/1080410/Bake_n_Switch/"><img src="https://i.ibb.co/59HNtVk/aaa-modified.png" border="0" style="width:250px;height:150px;"/></a>
-<a href="https://store.steampowered.com/app/1080410/Bake_n_Switch/"><img src="https://i.ibb.co/19PLg8h/1668956168327-modified.png" border="0" style="width:200px;height:150px;"/></a>
+<a href="https://www.indiedb.com/games/the-lays-of-althas-sundered-order"><img src="https://i.ibb.co/19PLg8h/1668956168327-modified.png" border="0" style="width:200px;height:150px;"/></a>
 
  </div>
