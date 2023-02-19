@@ -12,7 +12,7 @@ Technologies and Languages </h2>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![ImGUI](https://img.shields.io/badge/-ImGUI-blue?style=for-the-badge&logo=unity&logoColor=white)
+![ImGUI](https://img.shields.io/badge/-ImGUI-blue?style=for-the-badge)
 
 <div align="center">
 <h2>Connect with me!</h2>
