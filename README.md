@@ -25,5 +25,5 @@ Technologies and Languages </h2>
 </div>
 
 <div align="center">
-<a href="url"><img src="https://desmond75.github.io/img/IMG_20171214_095012.jpg" height="auto" width="200" style="border-radius:50%"></a>
+<a href="url"><img src="https://media.licdn.com/dms/image/D4E2DAQGExSpW-hUtSQ/profile-treasury-image-shrink_1920_1920/0/1666346499540?e=1677405600&v=beta&t=ua-5-XKr8zjVHW_pNpH0ocNWqSQ6ZHfk1t0nKUOhwsg" height="auto" width="200" style="border-radius:50%"></a>
 </div>
