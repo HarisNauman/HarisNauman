@@ -25,4 +25,4 @@ Technologies and Languages </h2>
 </div>
 
 <div align="center">
- ![avatar](https://images.weserv.nl/?url=https://ibb.co/tsS4DK3.jpg&w=300&h=300)
+<img src="https://images.weserv.nl/?url=https://ibb.co/tsS4DK3.jpg&w=300&h=300">
