@@ -13,8 +13,6 @@ Technologies and Languages </h2>
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
--------------------------------------------------------------------------------------------------------------------------------------------------------
-
 <div align="center">
 <h2>Connect with me!</h2>
  
