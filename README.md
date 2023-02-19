@@ -1,16 +1,5 @@
 <h2 align="center"> Hi 👋 , I'm Raja Haris Nauman<br/></h2> 
 <p>Software Engineer with experience in systems programming, battle-tested In the field of Game development, I am well versed in design patterns, data structures and algorithms. My interests include Render pipelines, shaders and simulations.</p>
-      
-               
-     
-<div align="center">
-
-[![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-
-</div>
 
 <h2 align="center">
 Technologies and Languages </h2>
@@ -22,7 +11,7 @@ Technologies and Languages </h2>
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
