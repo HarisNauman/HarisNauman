@@ -25,6 +25,7 @@ Technologies and Languages </h2>
 </div>
 
 <div align="center">
-<img src="https://images.weserv.nl/?url=https://ibb.co/tsS4DK3&w=300&h=300">
+ 
+<img src="https://i.ibb.co/59HNtVk/aaa-modified.png" alt="aaa-modified" border="0" />
  
  </div>
